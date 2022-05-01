@@ -73,25 +73,9 @@ The figure above shows a detailed pipeline of the model architecture. It can be 
 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/prem1226/sign-to-speech/blob/main/requirements.txt)
 
-## 🚀&nbsp; Installation
-1. Start and fork the repository.
 
-2. Clone the repo
-```
-$ git clone https://github.com/beingaryan/Sign-To-Speech-Conversion.git
-```
-
-3. Change your directory to the cloned repo and create a Python virtual environment named 'test'
-```
-$ mkvirtualenv test
-```
-
-4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
-```
-$ pip3 install -r requirements.txt
-```
 
 ## :bulb: Working
 
@@ -100,11 +84,11 @@ $ pip3 install -r requirements.txt
 $ python3 jupyter
 ```
 
-2. To train the model, open the [ASL_train](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/ASL_train.ipynb) file in jupyter notebook and run all the cells </br>
+2. To train the model, open the [ASL_train](https://github.com/prem1226/sign-to-speech) file in jupyter notebook and run all the cells </br>
 
-3. To detect ASL Gestures in real-time video streams run the [ASL_Real-Time.ipynb](https://github.com/beingaryan/Automated-Sign-To-Speech-Conversion/blob/master/ASL_Real-Time.ipynb) file.
+3. To detect ASL Gestures in real-time video streams run the [ASL_Real-Time.ipynb](https://github.com/prem1226/sign-to-speech) file.
 
-* __'NOTE'__: You can directly use [asl_classifier.h5](https://github.com/beingaryan/Automated-Sign-To-Speech-Conversion/blob/master/asl_classifier.h5) file trained by me for real-time predictions in [Real-Time](https://github.com/beingaryan/Automated-Sign-To-Speech-Conversion/blob/master/ASL_Real-Time.ipynb) file.
+* __'NOTE'__: You can directly use [asl_classifier.h5](https://github.com/prem1226/sign-to-speech) file trained by me for real-time predictions in [Real-Time](https://github.com/prem1226/sign-to-speech) file.
 
 </br></br>
 ## :key: Results 
@@ -129,16 +113,12 @@ $ python3 jupyter
 
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
-:email: aryan.gupta18@vit.edu
+:email: tumulusaiprem@gmail.com
 
 
 
 ## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Sign-Language-Detection](https://github.com/beingaryan/Sign-To-Speech-Conversion/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
-
-
-## :heart: Owner
-Made with :heart:&nbsp;  by [Aryan Gupta](https://github.com/beingaryan)
+Feel free to **file a new issue** with a respective title and description on the the [Sign-Language-Detection](https://github.com/prem1226/sign-to-speech) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 
 ## :+1: Credits
@@ -156,8 +136,7 @@ Made with :heart:&nbsp;  by [Aryan Gupta](https://github.com/beingaryan)
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 
-## :eyes: License
-MIT © [Aryan Gupta](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/LICENSE)
+
 
 
 
